@@ -41,3 +41,7 @@ An improvement that we can imagine, for this type of video who always share
 exactly the same background can be to not update the buffer at each frame.
 If we proceed like that, we have not to compute again the mean and the standard
 deviation for each pixels of images of the buffer.
+
+<p align="center">
+  <img src= https://github.com/francoislievens/ELEN0016-2-CV-Background_Subtractor/outputs_frame/group2_00022.jpg/>
+</p>
