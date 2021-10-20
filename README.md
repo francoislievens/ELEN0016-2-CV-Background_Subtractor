@@ -1,6 +1,6 @@
 # ELEN0016-2-CV-Background_Subtractor
 
-###Julien Hubar, Matthias Pirlet, François Lievens
+### Julien Hubar, Matthias Pirlet, François Lievens
 
 This file contain the implementation of our
 background subtractor project for the ELEN0016 lecture.
