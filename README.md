@@ -43,5 +43,5 @@ If we proceed like that, we have not to compute again the mean and the standard
 deviation for each pixels of images of the buffer.
 
 <p align="center">
-  <img src= https://github.com/francoislievens/ELEN0016-2-CV-Background_Subtractor/outputs_frame/group2_00022.jpg/>
+  <img src= https://github.com/francoislievens/ELEN0016-2-CV-Background_Subtractor/blob/main/output_frames/group2_00022.jpg/>
 </p>
