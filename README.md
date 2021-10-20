@@ -42,6 +42,7 @@ exactly the same background can be to not update the buffer at each frame.
 If we proceed like that, we have not to compute again the mean and the standard
 deviation for each pixels of images of the buffer.
 
+# RUN CODE
 
 To execute this code, you can execute the file BackgroundSubtraction.py. 
 Default parameters of the main function in the file are:
@@ -55,6 +56,7 @@ This repository already contain in the output_frames some outputs produced by ou
 This algorithm need the following libraries: 
 - numpy
 - cv2
+
 
 
 <p align="center">
