@@ -68,7 +68,6 @@ def main(vid_path='images/CV2021_GROUP02/group2.mp4',
         f_mask = subtractor.get_mask(frame)
 
         # Some delation before flood filling
-        #f_mask = dilation_filter(kx=4, ky=4, img=f_mask)
         f_mask = delayer_A.delay(f_mask)
 
         # Add two border lines for flood filling
