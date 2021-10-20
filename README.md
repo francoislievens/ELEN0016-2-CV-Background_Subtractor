@@ -42,6 +42,21 @@ exactly the same background can be to not update the buffer at each frame.
 If we proceed like that, we have not to compute again the mean and the standard
 deviation for each pixels of images of the buffer.
 
+
+To execute this code, you can execute the file BackgroundSubtraction.py. 
+Default parameters of the main function in the file are:
+- vid_path='images/CV2021_GROUP02/group2.mp4' who can be change to link a Cytomine video
+- vid_name='group2' who is used to name output frames 
+- display=True if you want to show obtained frames during the execution in a video window
+- save_frames=True if you want to export each produced frames in the output_frames folder.
+
+This repository already contain in the output_frames some outputs produced by our algorithm
+
+This algorithm need the following libraries: 
+- numpy
+- cv2
+
+
 <p align="center">
   <img src= https://github.com/francoislievens/ELEN0016-2-CV-Background_Subtractor/blob/main/output_frames/group2_00022.jpg/>
 </p>
