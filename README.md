@@ -48,10 +48,10 @@ To execute this code, you can execute the file
 
 ```BackgroundSubtraction.py. ```
 Default parameters of the main function in the file are:
-- ```vid_path='images/CV2021_GROUP02/group2.mp4'``` who can be change to link a Cytomine video
-- ```vid_name='group2'``` who is used to name output frames 
-- ```display=True``` if you want to show obtained frames during the execution in a video window
-- ```save_frames=True``` if you want to export each produced frames in the output_frames folder.
+- ```vid_path='images/CV2021_GROUP02/group2.mp4'```  Who can be change to link a Cytomine video
+- ```vid_name='group2'```  Who is used to name output frames 
+- ```display=True```  If you want to show obtained frames during the execution in a video window
+- ```save_frames=True```  If you want to export each produced frames in the output_frames folder.
 
 This repository already contain in the output_frames some outputs produced by our algorithm
 
